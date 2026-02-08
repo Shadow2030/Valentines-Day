@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif; /* Fallback font family */
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
-    background-color: #EBCED3; /* Set background color to light pink */
+    background-color: #EBCED3 ; /* Set background color to light pink */
 }
 
 #container {
@@ -37,4 +37,5 @@ button {
     color: white; /* Set text color to white */
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
+
 }
