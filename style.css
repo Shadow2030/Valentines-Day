@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: Pacifico, cursive; /* Fallback font family */
+    font-family: 'Pacifico', cursive; /* Fallback font family */
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
     background-color: #EBCED3 ; /* Set background color to light pink */
@@ -39,4 +39,5 @@ button {
     cursor: pointer; /* Set cursor to pointer on hover */
 
 }
+
 
